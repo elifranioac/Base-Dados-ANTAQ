@@ -1,0 +1,695 @@
+﻿NacionalidadeEmbarcacao;Ano Acordo Bilateral;Total Acordo Bilateral;AcordoTipoNavegacao;País;FlagEmbarqueDesembarque
+Não Informado;2010;1906211;1270003;Longo Curso;ARGENTINA;1
+;2010;3160823;6960002;Longo Curso;ARGENTINA;1
+Estrangeiras;2010;2158177;1970002;Longo Curso;ARGENTINA;1
+Brasilieiras;2010;395849;45900001;Longo Curso;ARGENTINA;1
+;2010;3011;25;Interior;ARGENTINA;1
+Não Informado;2010;5974;871;Interior;ARGENTINA;1
+Brasilieiras;2010;3083;82;Interior;ARGENTINA;1
+Estrangeiras;2010;17796;83;Longo Curso;BULGÁRIA;1
+Brasilieiras;2010;26;17;Longo Curso;BULGÁRIA;1
+;2010;75671;973;Longo Curso;BULGÁRIA;1
+Não Informado;2010;57995;942;Longo Curso;BULGÁRIA;1
+Estrangeiras;2010;661723;616;Longo Curso;CHILE;1
+Brasilieiras;2010;56125;985;Longo Curso;CHILE;1
+Não Informado;2010;796561;256;Longo Curso;CHILE;1
+;2010;747163;322;Longo Curso;CHILE;1
+Não Informado;2010;2326871;575;Longo Curso;CHINA;1
+Estrangeiras;2010;2708324;298;Longo Curso;CHINA;1
+Brasilieiras;2010;972156;814;Longo Curso;CHINA;1
+;2010;1479299;629;Longo Curso;CHINA;1
+Estrangeiras;2010;1099878;285;Longo Curso;ALEMANHA;1
+;2010;849777;988;Longo Curso;ALEMANHA;1
+Não Informado;2010;738966;13500001;Longo Curso;ALEMANHA;1
+Brasilieiras;2010;108364;593;Longo Curso;ALEMANHA;1
+;2010;1557374;803;Longo Curso;ARGÉLIA;1
+Não Informado;2010;736848;213;Longo Curso;ARGÉLIA;1
+Estrangeiras;2010;869905;813;Longo Curso;ARGÉLIA;1
+Não Informado;2010;108747;289;Longo Curso;FRANÇA;1
+;2010;139583;641;Longo Curso;FRANÇA;1
+Estrangeiras;2010;327110;881;Longo Curso;FRANÇA;1
+Brasilieiras;2010;66983;19;Longo Curso;FRANÇA;1
+;2010;154857;055;Longo Curso;POLÔNIA;1
+Estrangeiras;2010;71140;695;Longo Curso;POLÔNIA;1
+Não Informado;2010;186482;246;Longo Curso;POLÔNIA;1
+Brasilieiras;2010;3079;593;Longo Curso;POLÔNIA;1
+Não Informado;2010;164166;082;Longo Curso;PORTUGAL;1
+;2010;46510;664;Longo Curso;PORTUGAL;1
+Estrangeiras;2010;161487;64;Longo Curso;PORTUGAL;1
+Brasilieiras;2010;1139;118;Longo Curso;PORTUGAL;1
+Estrangeiras;2010;429;886;Longo Curso;ROMÊNIA;1
+;2010;3854;418;Longo Curso;ROMÊNIA;1
+Não Informado;2010;489;679;Longo Curso;ROMÊNIA;1
+Estrangeiras;2010;1317480;911;Longo Curso;RUSSIA;1
+;2010;445202;187;Longo Curso;RUSSIA;1
+Brasilieiras;2010;9168;662;Longo Curso;RUSSIA;1
+Não Informado;2010;1060696;326;Longo Curso;RUSSIA;1
+Não Informado;2010;4482242;1469998;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2010;723693;075;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2010;9335766;092;Longo Curso;ESTADOS UNIDOS;1
+;2010;7570912;559;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2010;679893;27599999;Longo Curso;URUGUAI;1
+Não Informado;2010;480227;429;Longo Curso;URUGUAI;1
+;2010;370083;16199999;Longo Curso;URUGUAI;1
+;2010;15057;486;Interior;URUGUAI;1
+Brasilieiras;2010;227438;615;Longo Curso;URUGUAI;1
+Não Informado;2010;8555;064;Interior;URUGUAI;1
+Estrangeiras;2010;3579;52;Interior;URUGUAI;1
+Estrangeiras;2010;3902114;285;Longo Curso;ARGENTINA;2
+Não Informado;2010;987292;34200001;Longo Curso;ARGENTINA;2
+Não Informado;2010;621392;Interior;ARGENTINA;2
+;2010;2053751;2;Interior;ARGENTINA;2
+Brasilieiras;2010;278628;886;Longo Curso;ARGENTINA;2
+;2010;2219417;192;Longo Curso;ARGENTINA;2
+Estrangeiras;2010;565919;Interior;ARGENTINA;2
+Brasilieiras;2010;541744;Interior;ARGENTINA;2
+Não Informado;2010;193;68;Longo Curso;BULGÁRIA;2
+Estrangeiras;2010;78739;Longo Curso;BULGÁRIA;2
+;2010;52049;553;Longo Curso;BULGÁRIA;2
+Brasilieiras;2010;69;234;Longo Curso;BULGÁRIA;2
+Não Informado;2010;131362;754;Longo Curso;CHILE;2
+Brasilieiras;2010;11026;72;Longo Curso;CHILE;2
+Estrangeiras;2010;914093;388;Longo Curso;CHILE;2
+;2010;388577;524;Longo Curso;CHILE;2
+Não Informado;2010;22112000;241;Longo Curso;CHINA;2
+;2010;41703448;648;Longo Curso;CHINA;2
+Estrangeiras;2010;76746317;082;Longo Curso;CHINA;2
+Brasilieiras;2010;690580;618;Longo Curso;CHINA;2
+;2010;5501156;884;Longo Curso;ALEMANHA;2
+Não Informado;2010;2400043;5859999;Longo Curso;ALEMANHA;2
+Estrangeiras;2010;2452287;136;Longo Curso;ALEMANHA;2
+Brasilieiras;2010;94374;204;Longo Curso;ALEMANHA;2
+Não Informado;2010;594872;858;Longo Curso;ARGÉLIA;2
+Estrangeiras;2010;220893;863;Longo Curso;ARGÉLIA;2
+Brasilieiras;2010;33098;429;Longo Curso;ARGÉLIA;2
+;2010;89048;247;Longo Curso;ARGÉLIA;2
+Não Informado;2010;2583816;689;Longo Curso;FRANÇA;2
+;2010;4134304;836;Longo Curso;FRANÇA;2
+Estrangeiras;2010;4520227;553;Longo Curso;FRANÇA;2
+Brasilieiras;2010;138633;035;Longo Curso;FRANÇA;2
+;2010;9050;498;Longo Curso;POLÔNIA;2
+Não Informado;2010;19227;935;Longo Curso;POLÔNIA;2
+Estrangeiras;2010;28991;645;Longo Curso;POLÔNIA;2
+Brasilieiras;2010;90;121;Longo Curso;POLÔNIA;2
+Estrangeiras;2010;802237;103;Longo Curso;PORTUGAL;2
+Brasilieiras;2010;236433;031;Longo Curso;PORTUGAL;2
+Não Informado;2010;458079;074;Longo Curso;PORTUGAL;2
+;2010;1360092;707;Longo Curso;PORTUGAL;2
+Não Informado;2010;38058;309;Longo Curso;ROMÊNIA;2
+Brasilieiras;2010;34;132;Longo Curso;ROMÊNIA;2
+Estrangeiras;2010;951877;988;Longo Curso;ROMÊNIA;2
+;2010;229327;033;Longo Curso;ROMÊNIA;2
+Não Informado;2010;1123017;733;Longo Curso;RUSSIA;2
+Estrangeiras;2010;569959;021;Longo Curso;RUSSIA;2
+;2010;998223;151;Longo Curso;RUSSIA;2
+Brasilieiras;2010;575;743;Longo Curso;RUSSIA;2
+Estrangeiras;2010;5415648;511;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2010;1090713;716;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2010;5156958;0229995;Longo Curso;ESTADOS UNIDOS;2
+;2010;6582360;471;Longo Curso;ESTADOS UNIDOS;2
+;2010;113459;442;Longo Curso;URUGUAI;2
+Estrangeiras;2010;121982;518;Longo Curso;URUGUAI;2
+Brasilieiras;2010;34840;557;Longo Curso;URUGUAI;2
+Não Informado;2010;132484;023;Longo Curso;URUGUAI;2
+Não Informado;2010;5766;868;Interior;URUGUAI;2
+Brasilieiras;2010;22820;735;Interior;URUGUAI;2
+Estrangeiras;2011;7328652;7949984;Longo Curso;ARGENTINA;1
+Brasilieiras;2011;1048820;5129997;Longo Curso;ARGENTINA;1
+Não Informado;2011;1320289;7750001;Longo Curso;ARGENTINA;1
+Não Informado;2011;3597;57;Interior;ARGENTINA;1
+Estrangeiras;2011;4939;293;Interior;ARGENTINA;1
+Brasilieiras;2011;2998;51;Interior;ARGENTINA;1
+Estrangeiras;2011;73881;586;Longo Curso;BULGÁRIA;1
+Não Informado;2011;82832;876;Longo Curso;BULGÁRIA;1
+Brasilieiras;2011;8917;3;Longo Curso;BULGÁRIA;1
+Brasilieiras;2011;348198;945;Longo Curso;CHILE;1
+Não Informado;2011;634470;598;Longo Curso;CHILE;1
+Estrangeiras;2011;2129963;145;Longo Curso;CHILE;1
+Estrangeiras;2011;7184381;7499999;Longo Curso;CHINA;1
+Brasilieiras;2011;1440995;649;Longo Curso;CHINA;1
+Não Informado;2011;2583709;572;Longo Curso;CHINA;1
+Estrangeiras;2011;2411358;13;Longo Curso;ALEMANHA;1
+Não Informado;2011;356850;14;Longo Curso;ALEMANHA;1
+Brasilieiras;2011;157047;719;Longo Curso;ALEMANHA;1
+Estrangeiras;2011;2474493;666;Longo Curso;ARGÉLIA;1
+Não Informado;2011;661891;548;Longo Curso;ARGÉLIA;1
+Brasilieiras;2011;153759;917;Longo Curso;ARGÉLIA;1
+Brasilieiras;2011;42777;346;Longo Curso;FRANÇA;1
+Estrangeiras;2011;491755;551;Longo Curso;FRANÇA;1
+Não Informado;2011;68998;528;Longo Curso;FRANÇA;1
+Estrangeiras;2011;224920;899;Longo Curso;POLÔNIA;1
+Não Informado;2011;100713;619;Longo Curso;POLÔNIA;1
+Brasilieiras;2011;2908;527;Longo Curso;POLÔNIA;1
+Não Informado;2011;383601;471;Longo Curso;PORTUGAL;1
+Estrangeiras;2011;527582;439;Longo Curso;PORTUGAL;1
+Brasilieiras;2011;19524;999;Longo Curso;PORTUGAL;1
+Estrangeiras;2011;2485;338;Longo Curso;ROMÊNIA;1
+Não Informado;2011;2577;455;Longo Curso;ROMÊNIA;1
+Brasilieiras;2011;597;702;Longo Curso;ROMÊNIA;1
+Brasilieiras;2011;48369;993;Longo Curso;RUSSIA;1
+Estrangeiras;2011;3216796;557;Longo Curso;RUSSIA;1
+Não Informado;2011;542975;426;Longo Curso;RUSSIA;1
+Estrangeiras;2011;22965046;684;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2011;1460601;98;Longo Curso;ESTADOS UNIDOS;1
+Não Informado;2011;2620653;729;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2011;983828;82799999;Longo Curso;URUGUAI;1
+Brasilieiras;2011;178022;16400001;Longo Curso;URUGUAI;1
+Não Informado;2011;201017;539;Longo Curso;URUGUAI;1
+Estrangeiras;2011;3749;188;Interior;URUGUAI;1
+Não Informado;2011;7567;214;Interior;URUGUAI;1
+Não Informado;2011;770669;16100001;Longo Curso;ARGENTINA;2
+Estrangeiras;2011;7812971;664;Longo Curso;ARGENTINA;2
+Brasilieiras;2011;660600;376;Longo Curso;ARGENTINA;2
+Estrangeiras;2011;4250984;Interior;ARGENTINA;2
+Não Informado;2011;1052519;982;Interior;ARGENTINA;2
+Brasilieiras;2011;39839;Interior;ARGENTINA;2
+Não Informado;2011;9239;276;Longo Curso;BULGÁRIA;2
+Estrangeiras;2011;27585;57;Longo Curso;BULGÁRIA;2
+Brasilieiras;2011;9424;884;Longo Curso;BULGÁRIA;2
+Brasilieiras;2011;103228;574;Longo Curso;CHILE;2
+Estrangeiras;2011;2592045;633;Longo Curso;CHILE;2
+Não Informado;2011;49895;599;Longo Curso;CHILE;2
+Brasilieiras;2011;1716726;735;Longo Curso;CHINA;2
+Não Informado;2011;4826182;1809996;Longo Curso;CHINA;2
+Estrangeiras;2011;187584435;38499;Longo Curso;CHINA;2
+Não Informado;2011;783269;34900001;Longo Curso;ALEMANHA;2
+Estrangeiras;2011;6597381;857;Longo Curso;ALEMANHA;2
+Brasilieiras;2011;303638;459;Longo Curso;ALEMANHA;2
+Estrangeiras;2011;2511829;918;Longo Curso;ARGÉLIA;2
+Não Informado;2011;186269;415;Longo Curso;ARGÉLIA;2
+Brasilieiras;2011;146467;12;Longo Curso;ARGÉLIA;2
+Estrangeiras;2011;10266482;37;Longo Curso;FRANÇA;2
+Não Informado;2011;1020674;529;Longo Curso;FRANÇA;2
+Brasilieiras;2011;300979;898;Longo Curso;FRANÇA;2
+Não Informado;2011;16345;242;Longo Curso;POLÔNIA;2
+Estrangeiras;2011;121487;196;Longo Curso;POLÔNIA;2
+Brasilieiras;2011;12170;311;Longo Curso;POLÔNIA;2
+Estrangeiras;2011;1736409;501;Longo Curso;PORTUGAL;2
+Brasilieiras;2011;15989;834;Longo Curso;PORTUGAL;2
+Não Informado;2011;228383;924;Longo Curso;PORTUGAL;2
+Estrangeiras;2011;1084983;392;Longo Curso;ROMÊNIA;2
+Não Informado;2011;36401;528;Longo Curso;ROMÊNIA;2
+Brasilieiras;2011;32;05;Longo Curso;ROMÊNIA;2
+Não Informado;2011;1276770;752;Longo Curso;RUSSIA;2
+Estrangeiras;2011;2517478;493;Longo Curso;RUSSIA;2
+Brasilieiras;2011;16967;105;Longo Curso;RUSSIA;2
+Estrangeiras;2011;15115262;396;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2011;3002693;092;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2011;3253889;489;Longo Curso;ESTADOS UNIDOS;2
+Estrangeiras;2011;379746;674;Longo Curso;URUGUAI;2
+Não Informado;2011;251036;878;Longo Curso;URUGUAI;2
+Brasilieiras;2011;156870;219;Longo Curso;URUGUAI;2
+Estrangeiras;2011;12520;022;Interior;URUGUAI;2
+Não Informado;2011;25074;558;Interior;URUGUAI;2
+Brasilieiras;2012;1417021;295;Longo Curso;ARGENTINA;1
+Estrangeiras;2012;8188848;1439985;Longo Curso;ARGENTINA;1
+Não Informado;2012;306199;46499998;Longo Curso;ARGENTINA;1
+Estrangeiras;2012;14868;64;Interior;ARGENTINA;1
+Brasilieiras;2012;4541;81;Interior;ARGENTINA;1
+Brasilieiras;2012;441;316;Longo Curso;BULGÁRIA;1
+Estrangeiras;2012;136847;28;Longo Curso;BULGÁRIA;1
+Estrangeiras;2012;2312899;669;Longo Curso;CHILE;1
+Brasilieiras;2012;425078;654;Longo Curso;CHILE;1
+Não Informado;2012;4610;849;Longo Curso;CHILE;1
+Estrangeiras;2012;7769312;4079998;Longo Curso;CHINA;1
+Brasilieiras;2012;2190195;593;Longo Curso;CHINA;1
+Não Informado;2012;828145;40999999;Longo Curso;CHINA;1
+Não Informado;2012;259859;95;Longo Curso;ALEMANHA;1
+Brasilieiras;2012;475171;224;Longo Curso;ALEMANHA;1
+Estrangeiras;2012;2511445;485;Longo Curso;ALEMANHA;1
+Estrangeiras;2012;3015982;925;Longo Curso;ARGÉLIA;1
+Brasilieiras;2012;847405;222;Longo Curso;ARGÉLIA;1
+Não Informado;2012;5124;41;Longo Curso;ARGÉLIA;1
+Estrangeiras;2012;600398;262;Longo Curso;FRANÇA;1
+Não Informado;2012;82814;704;Longo Curso;FRANÇA;1
+Brasilieiras;2012;134780;959;Longo Curso;FRANÇA;1
+Não Informado;2012;11026;225;Longo Curso;POLÔNIA;1
+Estrangeiras;2012;614560;512;Longo Curso;POLÔNIA;1
+Brasilieiras;2012;14378;995;Longo Curso;POLÔNIA;1
+Estrangeiras;2012;536215;599;Longo Curso;PORTUGAL;1
+Não Informado;2012;360294;555;Longo Curso;PORTUGAL;1
+Brasilieiras;2012;178123;344;Longo Curso;PORTUGAL;1
+Estrangeiras;2012;7381;943;Longo Curso;ROMÊNIA;1
+Não Informado;2012;1177;2;Longo Curso;ROMÊNIA;1
+Brasilieiras;2012;5958;387;Longo Curso;ROMÊNIA;1
+Brasilieiras;2012;209931;034;Longo Curso;RUSSIA;1
+Estrangeiras;2012;3106564;327;Longo Curso;RUSSIA;1
+Não Informado;2012;89758;654;Longo Curso;RUSSIA;1
+Estrangeiras;2012;23321386;907;Longo Curso;ESTADOS UNIDOS;1
+Não Informado;2012;662586;265;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2012;2342683;901;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2012;1062135;78;Longo Curso;URUGUAI;1
+Brasilieiras;2012;368043;66999998;Longo Curso;URUGUAI;1
+Não Informado;2012;174797;232;Longo Curso;URUGUAI;1
+Estrangeiras;2012;9672;814;Interior;URUGUAI;1
+Estrangeiras;2012;6069060;501;Longo Curso;ARGENTINA;2
+Brasilieiras;2012;1085764;111;Longo Curso;ARGENTINA;2
+Estrangeiras;2012;4181363;794;Interior;ARGENTINA;2
+Não Informado;2012;44939;830999999;Longo Curso;ARGENTINA;2
+Brasilieiras;2012;72961;Interior;ARGENTINA;2
+Não Informado;2012;752;757;Longo Curso;BULGÁRIA;2
+Estrangeiras;2012;63279;328;Longo Curso;BULGÁRIA;2
+Brasilieiras;2012;95;591;Longo Curso;BULGÁRIA;2
+Brasilieiras;2012;145718;391;Longo Curso;CHILE;2
+Estrangeiras;2012;867571;461;Longo Curso;CHILE;2
+Não Informado;2012;935;41;Longo Curso;CHILE;2
+Estrangeiras;2012;201870778;985;Longo Curso;CHINA;2
+Brasilieiras;2012;3316894;209;Longo Curso;CHINA;2
+Não Informado;2012;369238;17100002;Longo Curso;CHINA;2
+Não Informado;2012;189277;913;Longo Curso;ALEMANHA;2
+Brasilieiras;2012;604876;315;Longo Curso;ALEMANHA;2
+Estrangeiras;2012;6737094;918;Longo Curso;ALEMANHA;2
+Estrangeiras;2012;1746324;939;Longo Curso;ARGÉLIA;2
+Não Informado;2012;894;5;Longo Curso;ARGÉLIA;2
+Brasilieiras;2012;1215454;983;Longo Curso;ARGÉLIA;2
+Não Informado;2012;40196;236;Longo Curso;FRANÇA;2
+Brasilieiras;2012;328808;573;Longo Curso;FRANÇA;2
+Estrangeiras;2012;11810714;239;Longo Curso;FRANÇA;2
+Não Informado;2012;2987;779;Longo Curso;POLÔNIA;2
+Estrangeiras;2012;159372;891;Longo Curso;POLÔNIA;2
+Brasilieiras;2012;10299;309;Longo Curso;POLÔNIA;2
+Não Informado;2012;11786;392;Longo Curso;PORTUGAL;2
+Estrangeiras;2012;1843165;749;Longo Curso;PORTUGAL;2
+Brasilieiras;2012;36262;673;Longo Curso;PORTUGAL;2
+Não Informado;2012;3302;909;Longo Curso;ROMÊNIA;2
+Estrangeiras;2012;987461;913;Longo Curso;ROMÊNIA;2
+Brasilieiras;2012;24224;053;Longo Curso;ROMÊNIA;2
+Não Informado;2012;53095;79;Longo Curso;RUSSIA;2
+Brasilieiras;2012;11810;459;Longo Curso;RUSSIA;2
+Estrangeiras;2012;1841867;665;Longo Curso;RUSSIA;2
+Estrangeiras;2012;14982913;854;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2012;6153651;9999999;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2012;1018754;643;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2012;410037;715;Longo Curso;URUGUAI;2
+Estrangeiras;2012;266754;647;Longo Curso;URUGUAI;2
+Não Informado;2012;1684;935;Longo Curso;URUGUAI;2
+Estrangeiras;2012;29355;21;Interior;URUGUAI;2
+Estrangeiras;2013;6664176;8780001;Longo Curso;ARGENTINA;1
+Brasilieiras;2013;1128383;013;Longo Curso;ARGENTINA;1
+Brasilieiras;2013;6977;71;Interior;ARGENTINA;1
+Não Informado;2013;84774;309;Longo Curso;ARGENTINA;1
+Estrangeiras;2013;83498;808;Longo Curso;BULGÁRIA;1
+Brasilieiras;2013;903;264;Longo Curso;BULGÁRIA;1
+Estrangeiras;2013;2906192;501;Longo Curso;CHILE;1
+Brasilieiras;2013;245171;259;Longo Curso;CHILE;1
+Não Informado;2013;6144;419;Longo Curso;CHILE;1
+Estrangeiras;2013;10517374;094;Longo Curso;CHINA;1
+Brasilieiras;2013;2802663;814;Longo Curso;CHINA;1
+Não Informado;2013;81641;418;Longo Curso;CHINA;1
+Estrangeiras;2013;2484358;082;Longo Curso;ALEMANHA;1
+Brasilieiras;2013;313006;165;Longo Curso;ALEMANHA;1
+Não Informado;2013;7700;98;Longo Curso;ALEMANHA;1
+Estrangeiras;2013;2535466;136;Longo Curso;ARGÉLIA;1
+Brasilieiras;2013;588451;416;Longo Curso;ARGÉLIA;1
+Estrangeiras;2013;770486;674;Longo Curso;FRANÇA;1
+Brasilieiras;2013;117223;142;Longo Curso;FRANÇA;1
+Não Informado;2013;9557;081;Longo Curso;FRANÇA;1
+Brasilieiras;2013;7850;9;Longo Curso;POLÔNIA;1
+Estrangeiras;2013;621644;98;Longo Curso;POLÔNIA;1
+Não Informado;2013;186;746;Longo Curso;POLÔNIA;1
+Estrangeiras;2013;918362;385;Longo Curso;PORTUGAL;1
+Brasilieiras;2013;135769;068;Longo Curso;PORTUGAL;1
+Não Informado;2013;479;83;Longo Curso;PORTUGAL;1
+Estrangeiras;2013;18426;15;Longo Curso;ROMÊNIA;1
+Brasilieiras;2013;10195;286;Longo Curso;ROMÊNIA;1
+Brasilieiras;2013;180512;275;Longo Curso;RUSSIA;1
+Estrangeiras;2013;3817501;104;Longo Curso;RUSSIA;1
+Não Informado;2013;15379;96;Longo Curso;RUSSIA;1
+Estrangeiras;2013;26474594;025999;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2013;2675715;Longo Curso;ESTADOS UNIDOS;1
+Não Informado;2013;151623;353;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2013;1101792;99;Longo Curso;URUGUAI;1
+Brasilieiras;2013;306008;901;Longo Curso;URUGUAI;1
+Não Informado;2013;76587;011;Longo Curso;URUGUAI;1
+Brasilieiras;2013;1408987;978;Longo Curso;ARGENTINA;2
+Estrangeiras;2013;6977724;0840001;Longo Curso;ARGENTINA;2
+Estrangeiras;2013;5597865;187;Interior;ARGENTINA;2
+Não Informado;2013;38666;778;Longo Curso;ARGENTINA;2
+Brasilieiras;2013;204761;Interior;ARGENTINA;2
+Estrangeiras;2013;99814;041;Longo Curso;BULGÁRIA;2
+Não Informado;2013;10870;26;Longo Curso;BULGÁRIA;2
+Brasilieiras;2013;15364;691;Longo Curso;BULGÁRIA;2
+Brasilieiras;2013;119705;446;Longo Curso;CHILE;2
+Estrangeiras;2013;838334;58799999;Longo Curso;CHILE;2
+Não Informado;2013;3298;5;Longo Curso;CHILE;2
+Estrangeiras;2013;198942856;20891;Longo Curso;CHINA;2
+Brasilieiras;2013;3742733;4939998;Longo Curso;CHINA;2
+Não Informado;2013;172050;091;Longo Curso;CHINA;2
+Estrangeiras;2013;6228920;6600001;Longo Curso;ALEMANHA;2
+Brasilieiras;2013;438625;585;Longo Curso;ALEMANHA;2
+Não Informado;2013;5184;075;Longo Curso;ALEMANHA;2
+Estrangeiras;2013;2317699;008;Longo Curso;ARGÉLIA;2
+Brasilieiras;2013;371039;434;Longo Curso;ARGÉLIA;2
+Estrangeiras;2013;10422675;849;Longo Curso;FRANÇA;2
+Brasilieiras;2013;358179;294;Longo Curso;FRANÇA;2
+Não Informado;2013;2334;895;Longo Curso;FRANÇA;2
+Estrangeiras;2013;220100;137;Longo Curso;POLÔNIA;2
+Brasilieiras;2013;882;952;Longo Curso;POLÔNIA;2
+Não Informado;2013;86;99;Longo Curso;POLÔNIA;2
+Estrangeiras;2013;1253034;694;Longo Curso;PORTUGAL;2
+Brasilieiras;2013;28085;521;Longo Curso;PORTUGAL;2
+Não Informado;2013;56;71;Longo Curso;PORTUGAL;2
+Estrangeiras;2013;1223199;253;Longo Curso;ROMÊNIA;2
+Brasilieiras;2013;25899;127;Longo Curso;ROMÊNIA;2
+Não Informado;2013;53;5;Longo Curso;ROMÊNIA;2
+Estrangeiras;2013;1452515;347;Longo Curso;RUSSIA;2
+Brasilieiras;2013;95497;062;Longo Curso;RUSSIA;2
+Não Informado;2013;742;03;Longo Curso;RUSSIA;2
+Estrangeiras;2013;15891043;117;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2013;6738164;4370001;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2013;398970;131;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2013;118782;237;Longo Curso;URUGUAI;2
+Estrangeiras;2013;319296;44;Longo Curso;URUGUAI;2
+Estrangeiras;2013;89192;Interior;URUGUAI;2
+Não Informado;2013;1091;57;Longo Curso;URUGUAI;2
+Brasilieiras;2013;5524;628;Interior;URUGUAI;2
+Estrangeiras;2014;5764027;3360001;Longo Curso;ARGENTINA;1
+Brasilieiras;2014;886348;003;Longo Curso;ARGENTINA;1
+Não Informado;2014;172966;412;Longo Curso;ARGENTINA;1
+Estrangeiras;2014;2818;846;Interior;ARGENTINA;1
+Brasilieiras;2014;4238;744;Interior;ARGENTINA;1
+Estrangeiras;2014;5064;463;Longo Curso;BULGÁRIA;1
+Brasilieiras;2014;17;18;Longo Curso;BULGÁRIA;1
+Estrangeiras;2014;2867379;178;Longo Curso;CHILE;1
+Brasilieiras;2014;324097;211;Longo Curso;CHILE;1
+Não Informado;2014;24072;177;Longo Curso;CHILE;1
+Brasilieiras;2014;1763491;708;Longo Curso;CHINA;1
+Estrangeiras;2014;13046217;972;Longo Curso;CHINA;1
+Não Informado;2014;391251;663;Longo Curso;CHINA;1
+Estrangeiras;2014;2524333;4690001;Longo Curso;ALEMANHA;1
+Não Informado;2014;94302;914;Longo Curso;ALEMANHA;1
+Brasilieiras;2014;177380;503;Longo Curso;ALEMANHA;1
+Estrangeiras;2014;2366186;398;Longo Curso;ARGÉLIA;1
+Não Informado;2014;5249;14;Longo Curso;ARGÉLIA;1
+Brasilieiras;2014;759880;585;Longo Curso;ARGÉLIA;1
+Estrangeiras;2014;691441;105;Longo Curso;FRANÇA;1
+Brasilieiras;2014;106265;512;Longo Curso;FRANÇA;1
+Não Informado;2014;9380;234;Longo Curso;FRANÇA;1
+Estrangeiras;2014;219665;032;Longo Curso;POLÔNIA;1
+Brasilieiras;2014;6616;224;Longo Curso;POLÔNIA;1
+Não Informado;2014;13497;924;Longo Curso;POLÔNIA;1
+Estrangeiras;2014;777681;60799998;Longo Curso;PORTUGAL;1
+Brasilieiras;2014;179430;627;Longo Curso;PORTUGAL;1
+Não Informado;2014;179;49;Longo Curso;PORTUGAL;1
+Estrangeiras;2014;18996;526;Longo Curso;ROMÊNIA;1
+Brasilieiras;2014;1122;499;Longo Curso;ROMÊNIA;1
+Não Informado;2014;1125;6;Longo Curso;ROMÊNIA;1
+Não Informado;2014;199639;373;Longo Curso;RUSSIA;1
+Estrangeiras;2014;4315614;236;Longo Curso;RUSSIA;1
+Brasilieiras;2014;235889;239;Longo Curso;RUSSIA;1
+Brasilieiras;2014;1693617;266;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2014;28529530;027999;Longo Curso;ESTADOS UNIDOS;1
+Não Informado;2014;393731;278;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2014;1596758;511;Longo Curso;URUGUAI;1
+Brasilieiras;2014;203726;872;Longo Curso;URUGUAI;1
+Brasilieiras;2014;9798;43;Interior;URUGUAI;1
+Estrangeiras;2014;16388;68;Interior;URUGUAI;1
+Não Informado;2014;82092;724;Longo Curso;URUGUAI;1
+Estrangeiras;2014;7119530;2859999;Longo Curso;ARGENTINA;2
+Brasilieiras;2014;923981;37400001;Longo Curso;ARGENTINA;2
+Estrangeiras;2014;6773922;Interior;ARGENTINA;2
+Não Informado;2014;22172;61;Longo Curso;ARGENTINA;2
+Brasilieiras;2014;221699;Interior;ARGENTINA;2
+Estrangeiras;2014;74750;171;Longo Curso;BULGÁRIA;2
+Não Informado;2014;111;345;Longo Curso;BULGÁRIA;2
+Brasilieiras;2014;808;604;Longo Curso;BULGÁRIA;2
+Brasilieiras;2014;350893;809;Longo Curso;CHILE;2
+Estrangeiras;2014;1278401;1;Longo Curso;CHILE;2
+Não Informado;2014;10285;072;Longo Curso;CHILE;2
+Estrangeiras;2014;213057369;3949;Longo Curso;CHINA;2
+Brasilieiras;2014;3099346;484;Longo Curso;CHINA;2
+Não Informado;2014;515037;49;Longo Curso;CHINA;2
+Estrangeiras;2014;6017487;4560001;Longo Curso;ALEMANHA;2
+Brasilieiras;2014;556365;719;Longo Curso;ALEMANHA;2
+Não Informado;2014;33229;495;Longo Curso;ALEMANHA;2
+Estrangeiras;2014;2290072;939;Longo Curso;ARGÉLIA;2
+Brasilieiras;2014;96775;672;Longo Curso;ARGÉLIA;2
+Estrangeiras;2014;10643405;253999;Longo Curso;FRANÇA;2
+Brasilieiras;2014;334979;612;Longo Curso;FRANÇA;2
+Não Informado;2014;5194;786;Longo Curso;FRANÇA;2
+Estrangeiras;2014;169053;097;Longo Curso;POLÔNIA;2
+Brasilieiras;2014;652;307;Longo Curso;POLÔNIA;2
+Não Informado;2014;788;61;Longo Curso;POLÔNIA;2
+Estrangeiras;2014;1133697;92;Longo Curso;PORTUGAL;2
+Brasilieiras;2014;5406;599;Longo Curso;PORTUGAL;2
+Não Informado;2014;415;13;Longo Curso;PORTUGAL;2
+Estrangeiras;2014;950109;873;Longo Curso;ROMÊNIA;2
+Não Informado;2014;47;81;Longo Curso;ROMÊNIA;2
+Brasilieiras;2014;1024;216;Longo Curso;ROMÊNIA;2
+Estrangeiras;2014;2430607;302;Longo Curso;RUSSIA;2
+Brasilieiras;2014;50653;911;Longo Curso;RUSSIA;2
+Não Informado;2014;639;46;Longo Curso;RUSSIA;2
+Estrangeiras;2014;18719567;887;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2014;5713575;3010001;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2014;833938;908;Longo Curso;ESTADOS UNIDOS;2
+Estrangeiras;2014;667284;699;Longo Curso;URUGUAI;2
+Não Informado;2014;3309;99;Longo Curso;URUGUAI;2
+Brasilieiras;2014;104859;115;Longo Curso;URUGUAI;2
+Estrangeiras;2014;36247;Interior;URUGUAI;2
+Estrangeiras;2015;7607642;2630002;Longo Curso;ARGENTINA;1
+Brasilieiras;2015;937037;892;Longo Curso;ARGENTINA;1
+Não Informado;2015;131070;465;Longo Curso;ARGENTINA;1
+Estrangeiras;2015;4340;602;Interior;ARGENTINA;1
+Estrangeiras;2015;9200;809;Longo Curso;BULGÁRIA;1
+Brasilieiras;2015;909;151;Longo Curso;BULGÁRIA;1
+Não Informado;2015;248;63;Longo Curso;BULGÁRIA;1
+Não Informado;2015;39871;495;Longo Curso;CHILE;1
+Brasilieiras;2015;245934;413;Longo Curso;CHILE;1
+Estrangeiras;2015;2344063;528;Longo Curso;CHILE;1
+Estrangeiras;2015;10225241;608;Longo Curso;CHINA;1
+Brasilieiras;2015;1139051;592;Longo Curso;CHINA;1
+Não Informado;2015;344707;224;Longo Curso;CHINA;1
+Estrangeiras;2015;2665540;546;Longo Curso;ALEMANHA;1
+Brasilieiras;2015;163798;134;Longo Curso;ALEMANHA;1
+Não Informado;2015;31341;09;Longo Curso;ALEMANHA;1
+Brasilieiras;2015;357406;022;Longo Curso;ARGÉLIA;1
+Estrangeiras;2015;2780226;38;Longo Curso;ARGÉLIA;1
+Brasilieiras;2015;41291;112;Longo Curso;FRANÇA;1
+Estrangeiras;2015;585619;355;Longo Curso;FRANÇA;1
+Não Informado;2015;26967;133;Longo Curso;FRANÇA;1
+Estrangeiras;2015;249970;793;Longo Curso;POLÔNIA;1
+Brasilieiras;2015;4147;74;Longo Curso;POLÔNIA;1
+Não Informado;2015;7870;199;Longo Curso;POLÔNIA;1
+Brasilieiras;2015;62514;939;Longo Curso;PORTUGAL;1
+Estrangeiras;2015;561962;038;Longo Curso;PORTUGAL;1
+Não Informado;2015;986;935;Longo Curso;PORTUGAL;1
+Estrangeiras;2015;17830;781;Longo Curso;ROMÊNIA;1
+Brasilieiras;2015;1249;218;Longo Curso;ROMÊNIA;1
+Estrangeiras;2015;3704267;382;Longo Curso;RUSSIA;1
+Brasilieiras;2015;40893;943;Longo Curso;RUSSIA;1
+Não Informado;2015;87988;968;Longo Curso;RUSSIA;1
+Estrangeiras;2015;23763142;515999;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2015;1573970;142;Longo Curso;ESTADOS UNIDOS;1
+Não Informado;2015;195515;638;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2015;1072064;246;Longo Curso;URUGUAI;1
+Não Informado;2015;57039;992;Longo Curso;URUGUAI;1
+Brasilieiras;2015;103317;02;Longo Curso;URUGUAI;1
+Brasilieiras;2015;581147;339;Longo Curso;ARGENTINA;2
+Estrangeiras;2015;6267787;8200001;Longo Curso;ARGENTINA;2
+Não Informado;2015;26543;253;Longo Curso;ARGENTINA;2
+Estrangeiras;2015;4344785;666;Interior;ARGENTINA;2
+Não Informado;2015;12517;Interior;ARGENTINA;2
+Brasilieiras;2015;65897;Interior;ARGENTINA;2
+Estrangeiras;2015;69450;525;Longo Curso;BULGÁRIA;2
+Não Informado;2015;11042;41;Longo Curso;BULGÁRIA;2
+Não Informado;2015;9661;799;Longo Curso;CHILE;2
+Estrangeiras;2015;1915527;375;Longo Curso;CHILE;2
+Brasilieiras;2015;472521;458;Longo Curso;CHILE;2
+Estrangeiras;2015;245963492;45896;Longo Curso;CHINA;2
+Brasilieiras;2015;4084395;819;Longo Curso;CHINA;2
+Não Informado;2015;1194930;307;Longo Curso;CHINA;2
+Estrangeiras;2015;8821628;7450002;Longo Curso;ALEMANHA;2
+Brasilieiras;2015;380683;809;Longo Curso;ALEMANHA;2
+Não Informado;2015;206803;745;Longo Curso;ALEMANHA;2
+Estrangeiras;2015;3089516;416;Longo Curso;ARGÉLIA;2
+Não Informado;2015;430;315;Longo Curso;ARGÉLIA;2
+Brasilieiras;2015;63;167;Longo Curso;ARGÉLIA;2
+Brasilieiras;2015;287514;435;Longo Curso;FRANÇA;2
+Estrangeiras;2015;8741707;3100001;Longo Curso;FRANÇA;2
+Não Informado;2015;2072;32;Longo Curso;FRANÇA;2
+Estrangeiras;2015;139818;141;Longo Curso;POLÔNIA;2
+Não Informado;2015;1381;185;Longo Curso;POLÔNIA;2
+Brasilieiras;2015;172;495;Longo Curso;POLÔNIA;2
+Estrangeiras;2015;1316534;338;Longo Curso;PORTUGAL;2
+Não Informado;2015;353;08;Longo Curso;PORTUGAL;2
+Brasilieiras;2015;45821;397;Longo Curso;PORTUGAL;2
+Estrangeiras;2015;1477440;78;Longo Curso;ROMÊNIA;2
+Não Informado;2015;239;98;Longo Curso;ROMÊNIA;2
+Brasilieiras;2015;35;144;Longo Curso;ROMÊNIA;2
+Estrangeiras;2015;2105520;656;Longo Curso;RUSSIA;2
+Brasilieiras;2015;167;072;Longo Curso;RUSSIA;2
+Não Informado;2015;56;23;Longo Curso;RUSSIA;2
+Estrangeiras;2015;19379036;906;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2015;6257078;376;Longo Curso;ESTADOS UNIDOS;2
+Não Informado;2015;418977;071;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2015;48615;57;Longo Curso;URUGUAI;2
+Estrangeiras;2015;478160;11;Longo Curso;URUGUAI;2
+Não Informado;2015;1315;5;Longo Curso;URUGUAI;2
+Brasilieiras;2015;6000;Interior;URUGUAI;2
+Estrangeiras;2016;9575429;1110001;Longo Curso;ARGENTINA;1
+Brasilieiras;2016;849179;82500003;Longo Curso;ARGENTINA;1
+Estrangeiras;2016;6420;118;Interior;ARGENTINA;1
+Estrangeiras;2016;57806;882;Longo Curso;BULGÁRIA;1
+Brasilieiras;2016;3340;617;Longo Curso;BULGÁRIA;1
+Estrangeiras;2016;2802824;115;Longo Curso;CHILE;1
+Brasilieiras;2016;243650;914;Longo Curso;CHILE;1
+Estrangeiras;2016;8659074;7570001;Longo Curso;CHINA;1
+Brasilieiras;2016;905827;438;Longo Curso;CHINA;1
+Estrangeiras;2016;2367557;57;Longo Curso;ALEMANHA;1
+Brasilieiras;2016;177166;616;Longo Curso;ALEMANHA;1
+Estrangeiras;2016;3127524;555;Longo Curso;ARGÉLIA;1
+Brasilieiras;2016;1389096;042;Longo Curso;ARGÉLIA;1
+Estrangeiras;2016;683595;516;Longo Curso;FRANÇA;1
+Brasilieiras;2016;75008;796;Longo Curso;FRANÇA;1
+Estrangeiras;2016;235245;168;Longo Curso;POLÔNIA;1
+Brasilieiras;2016;5661;603;Longo Curso;POLÔNIA;1
+Estrangeiras;2016;330937;40000001;Longo Curso;PORTUGAL;1
+Brasilieiras;2016;15716;493;Longo Curso;PORTUGAL;1
+Estrangeiras;2016;15405;587;Longo Curso;ROMÊNIA;1
+Brasilieiras;2016;29;956;Longo Curso;ROMÊNIA;1
+Estrangeiras;2016;5489647;764;Longo Curso;RUSSIA;1
+Brasilieiras;2016;26328;054;Longo Curso;RUSSIA;1
+Estrangeiras;2016;28037330;967002;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2016;1458388;7369999;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2016;1314082;4269999;Longo Curso;URUGUAI;1
+Brasilieiras;2016;251927;47;Longo Curso;URUGUAI;1
+Estrangeiras;2016;5119684;2130001;Longo Curso;ARGENTINA;2
+Estrangeiras;2016;3213997;Interior;ARGENTINA;2
+Brasilieiras;2016;807364;414;Longo Curso;ARGENTINA;2
+Brasilieiras;2016;35129;Interior;ARGENTINA;2
+Estrangeiras;2016;51558;19;Longo Curso;BULGÁRIA;2
+Brasilieiras;2016;382;151;Longo Curso;BULGÁRIA;2
+Estrangeiras;2016;2782890;318;Longo Curso;CHILE;2
+Brasilieiras;2016;1081757;151;Longo Curso;CHILE;2
+Estrangeiras;2016;270390815;26998;Longo Curso;CHINA;2
+Brasilieiras;2016;6831535;097;Longo Curso;CHINA;2
+Estrangeiras;2016;7447041;1630001;Longo Curso;ALEMANHA;2
+Brasilieiras;2016;406416;758;Longo Curso;ALEMANHA;2
+Estrangeiras;2016;2265273;397;Longo Curso;ARGÉLIA;2
+Brasilieiras;2016;35301;095;Longo Curso;ARGÉLIA;2
+Estrangeiras;2016;9302420;213;Longo Curso;FRANÇA;2
+Brasilieiras;2016;365073;529;Longo Curso;FRANÇA;2
+Estrangeiras;2016;324490;902;Longo Curso;POLÔNIA;2
+Brasilieiras;2016;554;7;Longo Curso;POLÔNIA;2
+Estrangeiras;2016;1390052;701;Longo Curso;PORTUGAL;2
+Brasilieiras;2016;128119;949;Longo Curso;PORTUGAL;2
+Estrangeiras;2016;1246914;081;Longo Curso;ROMÊNIA;2
+Brasilieiras;2016;132;926;Longo Curso;ROMÊNIA;2
+Estrangeiras;2016;2175302;901;Longo Curso;RUSSIA;2
+Brasilieiras;2016;63244;018;Longo Curso;RUSSIA;2
+Estrangeiras;2016;20121950;869;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2016;4659980;323;Longo Curso;ESTADOS UNIDOS;2
+Estrangeiras;2016;426761;667;Longo Curso;URUGUAI;2
+Brasilieiras;2016;27909;942;Longo Curso;URUGUAI;2
+Estrangeiras;2017;9094177;7630017;Longo Curso;ARGENTINA;1
+Brasilieiras;2017;930193;005;Longo Curso;ARGENTINA;1
+Estrangeiras;2017;31107;885;Interior;ARGENTINA;1
+Brasilieiras;2017;2887;845;Interior;ARGENTINA;1
+Estrangeiras;2017;34297;605;Longo Curso;BULGÁRIA;1
+Brasilieiras;2017;1042;954;Longo Curso;BULGÁRIA;1
+Estrangeiras;2017;2795383;601;Longo Curso;CHILE;1
+Brasilieiras;2017;200828;346;Longo Curso;CHILE;1
+Brasilieiras;2017;1188966;082;Longo Curso;CHINA;1
+Estrangeiras;2017;9174004;0259999;Longo Curso;CHINA;1
+Estrangeiras;2017;2695733;359;Longo Curso;ALEMANHA;1
+Brasilieiras;2017;240057;495;Longo Curso;ALEMANHA;1
+Brasilieiras;2017;1215585;778;Longo Curso;ARGÉLIA;1
+Estrangeiras;2017;3720918;181;Longo Curso;ARGÉLIA;1
+Estrangeiras;2017;633410;148;Longo Curso;FRANÇA;1
+Brasilieiras;2017;113570;774;Longo Curso;FRANÇA;1
+Estrangeiras;2017;290393;248;Longo Curso;POLÔNIA;1
+Brasilieiras;2017;6503;41;Longo Curso;POLÔNIA;1
+Estrangeiras;2017;689675;47499999;Longo Curso;PORTUGAL;1
+Brasilieiras;2017;46978;05;Longo Curso;PORTUGAL;1
+Estrangeiras;2017;118838;112;Longo Curso;ROMÊNIA;1
+Brasilieiras;2017;557;638;Longo Curso;ROMÊNIA;1
+Estrangeiras;2017;5790933;107;Longo Curso;RUSSIA;1
+Brasilieiras;2017;167031;691;Longo Curso;RUSSIA;1
+Estrangeiras;2017;34271057;888997;Longo Curso;ESTADOS UNIDOS;1
+Brasilieiras;2017;1659331;4739999;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2017;893614;88800002;Longo Curso;URUGUAI;1
+Brasilieiras;2017;266122;85;Longo Curso;URUGUAI;1
+Estrangeiras;2017;7627004;5479999;Longo Curso;ARGENTINA;2
+Brasilieiras;2017;743958;297;Longo Curso;ARGENTINA;2
+Estrangeiras;2017;4027293;385;Interior;ARGENTINA;2
+Brasilieiras;2017;74956;63;Interior;ARGENTINA;2
+Brasilieiras;2017;563;87;Longo Curso;BULGÁRIA;2
+Estrangeiras;2017;19699;851;Longo Curso;BULGÁRIA;2
+Estrangeiras;2017;2798163;09;Longo Curso;CHILE;2
+Brasilieiras;2017;1337556;72;Longo Curso;CHILE;2
+Estrangeiras;2017;301945291;28302;Longo Curso;CHINA;2
+Brasilieiras;2017;5300047;326;Longo Curso;CHINA;2
+Estrangeiras;2017;5771716;772;Longo Curso;ALEMANHA;2
+Brasilieiras;2017;514733;664;Longo Curso;ALEMANHA;2
+Estrangeiras;2017;2553825;751;Longo Curso;ARGÉLIA;2
+Brasilieiras;2017;108601;622;Longo Curso;ARGÉLIA;2
+Estrangeiras;2017;10173783;967;Longo Curso;FRANÇA;2
+Brasilieiras;2017;236720;405;Longo Curso;FRANÇA;2
+Estrangeiras;2017;1407674;877;Longo Curso;POLÔNIA;2
+Brasilieiras;2017;519;413;Longo Curso;POLÔNIA;2
+Estrangeiras;2017;1658154;022;Longo Curso;PORTUGAL;2
+Brasilieiras;2017;404397;975;Longo Curso;PORTUGAL;2
+Estrangeiras;2017;1074334;708;Longo Curso;ROMÊNIA;2
+Brasilieiras;2017;169747;859;Longo Curso;ROMÊNIA;2
+Estrangeiras;2017;2001902;283;Longo Curso;RUSSIA;2
+Brasilieiras;2017;518;234;Longo Curso;RUSSIA;2
+Estrangeiras;2017;24791004;512;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2017;3645251;019;Longo Curso;ESTADOS UNIDOS;2
+Brasilieiras;2017;105899;554;Longo Curso;URUGUAI;2
+Estrangeiras;2017;664218;158;Longo Curso;URUGUAI;2
+Estrangeiras;2017;340294;Interior;URUGUAI;2
+Brasilieiras;2018;1620833;9720002;Longo Curso;ARGENTINA;1
+Estrangeiras;2018;9718801;5060003;Longo Curso;ARGENTINA;1
+Estrangeiras;2018;49397;92;Longo Curso;BULGÁRIA;1
+Brasilieiras;2018;908;595;Longo Curso;BULGÁRIA;1
+Brasilieiras;2018;215207;174;Longo Curso;CHILE;1
+Estrangeiras;2018;2271441;35;Longo Curso;CHILE;1
+Estrangeiras;2018;10781785;621;Longo Curso;CHINA;1
+Brasilieiras;2018;1261805;325;Longo Curso;CHINA;1
+Brasilieiras;2018;119786;762;Longo Curso;ALEMANHA;1
+Estrangeiras;2018;2480171;8259999;Longo Curso;ALEMANHA;1
+Estrangeiras;2018;3861738;828;Longo Curso;ARGÉLIA;1
+Brasilieiras;2018;613145;716;Longo Curso;ARGÉLIA;1
+Estrangeiras;2018;677885;34300002;Longo Curso;FRANÇA;1
+Brasilieiras;2018;162411;33;Longo Curso;FRANÇA;1
+Estrangeiras;2018;314161;701;Longo Curso;POLÔNIA;1
+Brasilieiras;2018;5936;891;Longo Curso;POLÔNIA;1
+Estrangeiras;2018;449926;76;Longo Curso;PORTUGAL;1
+Brasilieiras;2018;44820;876;Longo Curso;PORTUGAL;1
+Estrangeiras;2018;120891;504;Longo Curso;ROMÊNIA;1
+Brasilieiras;2018;466;15;Longo Curso;ROMÊNIA;1
+Estrangeiras;2018;7007487;612;Longo Curso;RUSSIA;1
+Brasilieiras;2018;49861;733;Longo Curso;RUSSIA;1
+Brasilieiras;2018;2633973;844;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2018;32397259;617988;Longo Curso;ESTADOS UNIDOS;1
+Estrangeiras;2018;732377;0249999;Longo Curso;URUGUAI;1
+Brasilieiras;2018;165647;905;Longo Curso;URUGUAI;1
+Estrangeiras;2018;6324907;6209996;Longo Curso;ARGENTINA;2
+Brasilieiras;2018;1415566;785;Longo Curso;ARGENTINA;2
+Estrangeiras;2018;3814135;003;Interior;ARGENTINA;2
+Brasilieiras;2018;1770;Interior;ARGENTINA;2
+Estrangeiras;2018;48780;265;Longo Curso;BULGÁRIA;2
+Brasilieiras;2018;739;91;Longo Curso;BULGÁRIA;2
+Estrangeiras;2018;3894648;14;Longo Curso;CHILE;2
+Brasilieiras;2018;662183;191;Longo Curso;CHILE;2
+Estrangeiras;2018;332624095;32802;Longo Curso;CHINA;2
+Brasilieiras;2018;3147063;077;Longo Curso;CHINA;2
+Estrangeiras;2018;5619108;5770003;Longo Curso;ALEMANHA;2
+Brasilieiras;2018;380818;575;Longo Curso;ALEMANHA;2
+Estrangeiras;2018;3061076;891;Longo Curso;ARGÉLIA;2
+Brasilieiras;2018;37848;159;Longo Curso;ARGÉLIA;2
+Estrangeiras;2018;8694943;085;Longo Curso;FRANÇA;2
+Brasilieiras;2018;27375;974;Longo Curso;FRANÇA;2
+Brasilieiras;2018;2361;835;Longo Curso;POLÔNIA;2
+Estrangeiras;2018;2005672;172;Longo Curso;POLÔNIA;2
+Estrangeiras;2018;2454471;014;Longo Curso;PORTUGAL;2
+Brasilieiras;2018;161961;053;Longo Curso;PORTUGAL;2
+Estrangeiras;2018;1464581;084;Longo Curso;ROMÊNIA;2
+Brasilieiras;2018;110963;125;Longo Curso;ROMÊNIA;2
+Estrangeiras;2018;2045348;568;Longo Curso;RUSSIA;2
+Brasilieiras;2018;4170;463;Longo Curso;RUSSIA;2
+Brasilieiras;2018;2687351;363;Longo Curso;ESTADOS UNIDOS;2
+Estrangeiras;2018;26339289;955;Longo Curso;ESTADOS UNIDOS;2
+Estrangeiras;2018;459728;86900001;Longo Curso;URUGUAI;2
+Brasilieiras;2018;47761;699;Longo Curso;URUGUAI;2
+Estrangeiras;2018;257747;136;Interior;URUGUAI;2
