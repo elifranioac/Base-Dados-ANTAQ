@@ -21,11 +21,13 @@ segue o link das fontes:
 #with zipfile.ZipFile('http://web.antaq.gov.br/Sistemas/ArquivosAnuario/Arquivos/MetadadosAfretamento.zip') as meta_afreta:
 #with zipfile.ZipFile('http://web.antaq.gov.br/Sistemas/ArquivosAnuario/Arquivos/MetadadosMovimentacao.zip') as meta_movi:
 
-Boas fonte para aprimorar: BENGFORT, Benjamin; KIM, Jenny. Analítica de dados com Hadoop: Uma introdução para cientistas de dados. Novatec Editora, 2019.
+Boas fontes bibliográfcas para aprimorar: BENGFORT, Benjamin; KIM, Jenny. Analítica de dados com Hadoop: Uma introdução para cientistas de dados. Novatec Editora, 2019.
                           MISHRA, Raju Kumar; RAMAN, Sundar Rajan. PySpark SQL Recipes. Apress, 2019.
                           JURNEY, Russell. Agile data science 2.0: Building full-stack data analytics applications with spark. " O'Reilly Media, Inc.", 2017.
 
+
 Livre para contribuições e melhorias.
+
 Bons estudos!
 
 
